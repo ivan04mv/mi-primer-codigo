@@ -7,3 +7,9 @@ body{
 p{
     font-family: 'Times New Roman', Times, serif;
 }
+button{
+    height: 60px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
